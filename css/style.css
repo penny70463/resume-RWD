@@ -420,15 +420,19 @@ a{
   color: white;
   margin-top: 30%;
   font-size: 4vw;
-  margin-left: 0%;
+  margin-left: 20%;
 }
 
-#cre1 p, #cre2 p, #cre3 p, #cre4 p, #cre5 p {
-  margin: 2%;
-  font-size: 1.5vw;
-  color: white;
-  font-weight: 600;
-  margin-top: 6%;
+#cre1 a p,#cre2 a p,#cre3 a p,#cre4 a p,#cre5 a p{
+margin:2%;
+  font-size:1.5vw;
+  color:white;
+  font-weight:600;
+  margin-top:6%;
+  text-align:center;
+}
+a{
+  text-decoration:none;
 }
 
 #cre2 {
