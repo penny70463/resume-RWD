@@ -309,7 +309,9 @@ li {
   padding-bottom: 20%;
   display: flex;
 }
-
+a{
+  text-decoration:none;
+}
 #contact {
   width: 33%;
   height: 0;
@@ -418,7 +420,7 @@ li {
   color: white;
   margin-top: 30%;
   font-size: 4vw;
-  margin-left: -25%;
+  margin-left: 0%;
 }
 
 #cre1 p, #cre2 p, #cre3 p, #cre4 p, #cre5 p {
